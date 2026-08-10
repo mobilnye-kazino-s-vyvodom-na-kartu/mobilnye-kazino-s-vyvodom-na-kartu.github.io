@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: mobilnye-kazino-s-vyvodom-na-kartu.github.io
+Sitemap: https://mobilnye-kazino-s-vyvodom-na-kartu.github.io/sitemap.xml
